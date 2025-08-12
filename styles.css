@@ -1,0 +1,46 @@
+/* General Page Styling */
+body {
+    font-family: Impact, sans-serif;
+    background-color:rgba(213, 205, 255, 0.884);
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+.main-header {
+    background-color: #805580;
+    color: white;
+    text-align: center;
+    font-size:xx-large;
+    padding: 20px;
+}
+
+/* Section Box Styling */
+.content-box {
+    background-color: white;
+    margin: 20px;
+    padding: 30px;
+    border: 2px solid #ddd;
+    border-radius: 30px;
+    font-size:larger;
+}
+
+/* Highlighted Box */
+.highlight {
+    background-color: #2c8168;
+    border-color: #fbc02d;
+}
+
+/* Footer */
+.main-footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+/* Extra: Demonstrating Box Model */
+.content-box p {
+    margin: 10px 0;
+}
